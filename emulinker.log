@@ -1,0 +1,420 @@
+12-13-22 22:53:39.210  INFO PicoStarter: Loading and starting components from components.xml
+12-13-22 22:53:39.401  INFO AccessManager2: Reloading permissions...
+12-13-22 22:53:39.463  WARN V086Controller: Listening on UDP ports: 27889 to 27999.  Make sure these ports are open in your firewall!
+12-13-22 22:53:39.542  INFO ByteBufferMessage: Using character set: windows-1251
+12-13-22 22:53:39.581  INFO ConnectController: Ready to accept connections on port 27888
+12-13-22 22:53:50.734  INFO KailleraServerImpl: User1(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:54496
+12-13-22 22:53:50.739  INFO V086Controller: Private port 27889 allocated to: User1(127.0.0.1)
+12-13-22 22:53:50.827  INFO KailleraServerImpl: User1(123/127.0.0.1): login request: delay=69ms, clientAddress=127.0.0.1:54497, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-13-22 22:53:50.952  INFO KailleraServerImpl: User1(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:24:40.339  INFO PicoStarter: Loading and starting components from components.xml
+12-13-22 23:24:40.498  INFO AccessManager2: Reloading permissions...
+12-13-22 23:24:40.552  WARN V086Controller: Listening on UDP ports: 27889 to 27999.  Make sure these ports are open in your firewall!
+12-13-22 23:24:40.609  INFO ByteBufferMessage: Using character set: windows-1251
+12-13-22 23:24:40.644  INFO ConnectController: Ready to accept connections on port 27666
+12-13-22 23:24:58.778  INFO KailleraServerImpl: User1(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:56712
+12-13-22 23:24:58.782  INFO V086Controller: Private port 27889 allocated to: User1(127.0.0.1)
+12-13-22 23:24:58.866  INFO KailleraServerImpl: User1(123/127.0.0.1): login request: delay=61ms, clientAddress=127.0.0.1:56713, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-13-22 23:24:58.990  INFO KailleraServerImpl: User1(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:25:40.676  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:25:45.823 ERROR EmuLinkerMasterUpdateTask: Failed to touch EmuLinker Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:25:48.235 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: www.kaillera.com
+12-13-22 23:26:04.276  INFO KailleraServerImpl: User1(123/127.0.0.1) created: Game1(Metal Slug 2: S...): Metal Slug 2: Super Vehicle-001/II
+12-13-22 23:26:04.281  INFO KailleraGameImpl: User1(123/127.0.0.1) joined: Game1(Metal Slug 2: S...)
+12-13-22 23:26:08.543  INFO KailleraGameImpl: User1(123/127.0.0.1) started: Game1(Metal Slug 2: S...)
+12-13-22 23:26:08.550  INFO KailleraGameImpl: Game1(Metal Slug 2: S...): User1(123/127.0.0.1) is player number 1
+12-13-22 23:26:11.570  INFO KailleraGameImpl: User1(123/127.0.0.1) dropped: Game1(Metal Slug 2: S...)
+12-13-22 23:26:15.325  INFO KailleraGameImpl: User1(123/127.0.0.1) quit: Game1(Metal Slug 2: S...)
+12-13-22 23:26:15.325  INFO KailleraServerImpl: User1(123/127.0.0.1) closed: Game1(Metal Slug 2: S...)
+12-13-22 23:26:48.245  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:26:48.754  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:26:53.755 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:27:18.792  INFO KailleraServerImpl: User2(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:62237
+12-13-22 23:27:18.793  INFO V086Controller: Private port 27890 allocated to: User2(127.0.0.1)
+12-13-22 23:27:18.818  INFO KailleraServerImpl: User2(123/127.0.0.1): login request: delay=26ms, clientAddress=127.0.0.1:62238, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-13-22 23:27:18.819  INFO KailleraServerImpl: User1(123/127.0.0.1) quit: Reconnected
+12-13-22 23:27:18.942  INFO KailleraServerImpl: User2(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:27:27.814  INFO KailleraServerImpl: User2(123/127.0.0.1) created: Game2(Warriors of Fat...): Warriors of Fate (US 921031)
+12-13-22 23:27:27.815  INFO KailleraGameImpl: User2(123/127.0.0.1) joined: Game2(Warriors of Fat...)
+12-13-22 23:27:31.270  INFO KailleraGameImpl: User2(123/127.0.0.1) started: Game2(Warriors of Fat...)
+12-13-22 23:27:31.270  INFO KailleraGameImpl: Game2(Warriors of Fat...): User2(123/127.0.0.1) is player number 1
+12-13-22 23:27:32.152  INFO KailleraGameImpl: User2(123/127.0.0.1) (player 1) is ready to play: Game2(Warriors of Fat...)
+12-13-22 23:27:32.153  INFO KailleraGameImpl: Game2(Warriors of Fat...) all players are ready: starting...
+12-13-22 23:27:53.770  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:27:54.263  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:27:59.267 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:28:11.174  INFO KailleraGameImpl: User2(123/127.0.0.1) dropped: Game2(Warriors of Fat...)
+12-13-22 23:28:11.175  INFO KailleraGameImpl: Game2(Warriors of Fat...): game desynched: less than 2 players playing!
+12-13-22 23:28:11.175  INFO KailleraGameImpl: User2(123/127.0.0.1) quit: Game2(Warriors of Fat...)
+12-13-22 23:28:11.175  INFO KailleraServerImpl: User2(123/127.0.0.1) closed: Game2(Warriors of Fat...)
+12-13-22 23:28:59.268  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:28:59.769  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:29:00.005  INFO KailleraServerImpl: User3(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:55188
+12-13-22 23:29:00.006  INFO V086Controller: Private port 27891 allocated to: User3(127.0.0.1)
+12-13-22 23:29:00.039  INFO KailleraServerImpl: User3(123/127.0.0.1): login request: delay=34ms, clientAddress=127.0.0.1:55189, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-13-22 23:29:00.040  INFO KailleraServerImpl: User2(123/127.0.0.1) quit: Reconnected
+12-13-22 23:29:00.163  INFO KailleraServerImpl: User3(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:29:04.784 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:29:05.210  INFO KailleraServerImpl: User3(123/127.0.0.1) created: Game3(Warriors of Fat...): Warriors of Fate (US 921031)
+12-13-22 23:29:05.210  INFO KailleraGameImpl: User3(123/127.0.0.1) joined: Game3(Warriors of Fat...)
+12-13-22 23:29:06.840  INFO KailleraGameImpl: User3(123/127.0.0.1) started: Game3(Warriors of Fat...)
+12-13-22 23:29:06.840  INFO KailleraGameImpl: Game3(Warriors of Fat...): User3(123/127.0.0.1) is player number 1
+12-13-22 23:29:07.742  INFO KailleraGameImpl: User3(123/127.0.0.1) (player 1) is ready to play: Game3(Warriors of Fat...)
+12-13-22 23:29:07.742  INFO KailleraGameImpl: Game3(Warriors of Fat...) all players are ready: starting...
+12-13-22 23:29:20.698  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:20.747  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:20.899  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:20.979  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:22.259  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:22.995  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:23.247  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:23.673  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:23.860  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:24.034  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:24.255  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:24.428  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:24.757  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:24.947  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:25.134  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:25.355  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:25.482  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:25.592  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Godamnit
+12-13-22 23:29:25.702  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:25.825  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:25.841  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Godamnit
+12-13-22 23:29:25.933  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:26.092  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:26.154  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Godamnit
+12-13-22 23:29:26.200  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:26.335  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:26.389  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Godamnit
+12-13-22 23:29:26.452  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:29.191  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Shoryuken !!!
+12-13-22 23:29:29.395  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:29:29.614  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:29:31.300  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:29:31.596  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:29:45.320  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: 
+12-13-22 23:29:48.601  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: 
+12-13-22 23:29:49.509  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Gwehehe >:]
+12-13-22 23:29:49.681  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Godamnit
+12-13-22 23:29:49.761  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Hadouken !!!
+12-13-22 23:29:50.783  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: Shoryuken !!!
+12-13-22 23:29:51.061  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:29:51.316  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:29:51.691  INFO KailleraGameImpl: User3(123/127.0.0.1), Game3(Warriors of Fat...) gamechat: :)))
+12-13-22 23:30:04.542  INFO KailleraGameImpl: User3(123/127.0.0.1) dropped: Game3(Warriors of Fat...)
+12-13-22 23:30:04.542  INFO KailleraGameImpl: Game3(Warriors of Fat...): game desynched: less than 2 players playing!
+12-13-22 23:30:04.790  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:30:05.355  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:30:10.356 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:30:17.227  INFO KailleraGameImpl: User3(123/127.0.0.1) quit: Game3(Warriors of Fat...)
+12-13-22 23:30:17.227  INFO KailleraServerImpl: User3(123/127.0.0.1) closed: Game3(Warriors of Fat...)
+12-13-22 23:30:17.227  INFO KailleraServerImpl: User3(123/127.0.0.1) quit: Normal client exit
+12-13-22 23:30:42.500  INFO KailleraServerImpl: User4(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:57334
+12-13-22 23:30:42.500  INFO V086Controller: Private port 27892 allocated to: User4(127.0.0.1)
+12-13-22 23:30:42.525  INFO KailleraServerImpl: User4(123/127.0.0.1): login request: delay=25ms, clientAddress=127.0.0.1:57335, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-13-22 23:30:42.646  INFO KailleraServerImpl: User4(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:31:00.649  INFO KailleraServerImpl: User4(123/127.0.0.1) created: Game4(Cadillacs and D...): Cadillacs and Dinosaurs (US 930201)
+12-13-22 23:31:00.650  INFO KailleraGameImpl: User4(123/127.0.0.1) joined: Game4(Cadillacs and D...)
+12-13-22 23:31:02.444  INFO KailleraGameImpl: User4(123/127.0.0.1) started: Game4(Cadillacs and D...)
+12-13-22 23:31:02.445  INFO KailleraGameImpl: Game4(Cadillacs and D...): User4(123/127.0.0.1) is player number 1
+12-13-22 23:31:03.947  INFO KailleraGameImpl: User4(123/127.0.0.1) dropped: Game4(Cadillacs and D...)
+12-13-22 23:31:06.635  INFO KailleraGameImpl: User4(123/127.0.0.1) quit: Game4(Cadillacs and D...)
+12-13-22 23:31:06.635  INFO KailleraServerImpl: User4(123/127.0.0.1) closed: Game4(Cadillacs and D...)
+12-13-22 23:31:10.359  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:31:10.868  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:31:12.170  INFO KailleraServerImpl: User4(123/127.0.0.1) created: Game5(Cadillacs and D...): Cadillacs and Dinosaurs (World 930201)
+12-13-22 23:31:12.170  INFO KailleraGameImpl: User4(123/127.0.0.1) joined: Game5(Cadillacs and D...)
+12-13-22 23:31:13.780  INFO KailleraGameImpl: User4(123/127.0.0.1) started: Game5(Cadillacs and D...)
+12-13-22 23:31:13.780  INFO KailleraGameImpl: Game5(Cadillacs and D...): User4(123/127.0.0.1) is player number 1
+12-13-22 23:31:14.721  INFO KailleraGameImpl: User4(123/127.0.0.1) (player 1) is ready to play: Game5(Cadillacs and D...)
+12-13-22 23:31:14.721  INFO KailleraGameImpl: Game5(Cadillacs and D...) all players are ready: starting...
+12-13-22 23:31:14.888  WARN KailleraGameImpl: User4(123/127.0.0.1) start game failed: Game5(Cadillacs and D...) status is Synchronizing
+12-13-22 23:31:15.880 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:31:16.242  WARN KailleraGameImpl: User4(123/127.0.0.1) start game failed: Game5(Cadillacs and D...) status is Synchronizing
+12-13-22 23:31:18.731  INFO KailleraGameImpl: User4(123/127.0.0.1) dropped: Game5(Cadillacs and D...)
+12-13-22 23:31:18.731  INFO KailleraGameImpl: Game5(Cadillacs and D...): game desynched: less than 2 players playing!
+12-13-22 23:31:20.635  INFO KailleraGameImpl: User4(123/127.0.0.1) started: Game5(Cadillacs and D...)
+12-13-22 23:31:20.635  INFO KailleraGameImpl: Game5(Cadillacs and D...): User4(123/127.0.0.1) is player number 1
+12-13-22 23:31:21.580  INFO KailleraGameImpl: User4(123/127.0.0.1) (player 1) is ready to play: Game5(Cadillacs and D...)
+12-13-22 23:31:21.581  INFO KailleraGameImpl: Game5(Cadillacs and D...) all players are ready: starting...
+12-13-22 23:32:15.881  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:32:16.475  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:32:21.485 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:33:21.486  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-13-22 23:33:21.980  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-13-22 23:33:26.995 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-13-22 23:33:31.908  INFO KailleraGameImpl: User4(123/127.0.0.1) dropped: Game5(Cadillacs and D...)
+12-13-22 23:33:31.908  INFO KailleraGameImpl: Game5(Cadillacs and D...): game desynched: less than 2 players playing!
+12-13-22 23:33:31.908  INFO KailleraGameImpl: User4(123/127.0.0.1) quit: Game5(Cadillacs and D...)
+12-13-22 23:33:31.908  INFO KailleraServerImpl: User4(123/127.0.0.1) closed: Game5(Cadillacs and D...)
+12-13-22 23:33:46.982  INFO KailleraServerImpl: User4(123/127.0.0.1) quit: Normal client exit
+12-13-22 23:40:58.662  INFO PicoStarter: Loading and starting components from components.xml
+12-13-22 23:40:58.825  INFO AccessManager2: Reloading permissions...
+12-13-22 23:40:58.882  WARN V086Controller: Listening on UDP ports: 27889 to 27999.  Make sure these ports are open in your firewall!
+12-13-22 23:40:58.953  INFO ByteBufferMessage: Using character set: windows-1251
+12-13-22 23:40:58.987  INFO ConnectController: Ready to accept connections on port 27888
+12-13-22 23:41:13.537  INFO KailleraServerImpl: User1(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:57147
+12-13-22 23:41:13.542  INFO V086Controller: Private port 27889 allocated to: User1(127.0.0.1)
+12-13-22 23:41:13.639  INFO KailleraServerImpl: User1(123/127.0.0.1): login request: delay=78ms, clientAddress=127.0.0.1:57148, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-13-22 23:41:13.705 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-13-22 23:41:13.729 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-13-22 23:41:13.763  INFO KailleraServerImpl: User1(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:41:19.208  INFO KailleraServerImpl: User1(123/127.0.0.1) chat: sdf
+12-13-22 23:41:23.837  INFO KailleraServerImpl: User1(123/127.0.0.1) quit: Normal client exit
+12-13-22 23:41:37.641  INFO KailleraServerImpl: User2(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:58486
+12-13-22 23:41:37.641  INFO V086Controller: Private port 27890 allocated to: User2(127.0.0.1)
+12-13-22 23:41:37.674  INFO KailleraServerImpl: User2(123/127.0.0.1): login request: delay=33ms, clientAddress=127.0.0.1:58487, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Bad
+12-13-22 23:41:37.730 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-13-22 23:41:37.760 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-13-22 23:41:37.791  INFO KailleraServerImpl: User2(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-13-22 23:41:41.487  INFO KailleraServerImpl: User2(123/127.0.0.1) quit: Normal client exit
+12-13-22 23:45:56.463  INFO PicoStarter: Loading and starting components from components.xml
+12-13-22 23:45:56.613  INFO AccessManager2: Reloading permissions...
+12-13-22 23:45:56.669  WARN V086Controller: Listening on UDP ports: 7001 to 7111.  Make sure these ports are open in your firewall!
+12-13-22 23:45:56.728  INFO ByteBufferMessage: Using character set: windows-1251
+12-13-22 23:45:56.758  INFO ConnectController: Ready to accept connections on port 7000
+12-13-22 23:46:24.224  INFO KailleraServerImpl: User1(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:54299
+12-13-22 23:46:24.228  INFO V086Controller: Private port 7001 allocated to: User1(127.0.0.1)
+12-13-22 23:46:24.311  INFO KailleraServerImpl: User1(123/127.0.0.1): login request: delay=60ms, clientAddress=127.0.0.1:54300, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Bad
+12-13-22 23:46:24.380 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-13-22 23:46:24.401 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-13-22 23:46:24.437  INFO KailleraServerImpl: User1(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:20:01.854  INFO PicoStarter: Loading and starting components from components.xml
+12-14-22 20:20:02.007  INFO AccessManager2: Reloading permissions...
+12-14-22 20:20:02.074  WARN V086Controller: Listening on UDP ports: 7001 to 7111.  Make sure these ports are open in your firewall!
+12-14-22 20:20:02.141  INFO ByteBufferMessage: Using character set: windows-1251
+12-14-22 20:20:02.181  INFO ConnectController: Ready to accept connections on port 7000
+12-14-22 20:20:05.002  INFO KailleraServerImpl: User1(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:60222
+12-14-22 20:20:05.007  INFO V086Controller: Private port 7001 allocated to: User1(127.0.0.1)
+12-14-22 20:20:05.084  INFO KailleraServerImpl: User1(123/127.0.0.1): login request: delay=63ms, clientAddress=127.0.0.1:60223, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Bad
+12-14-22 20:20:05.155 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:20:05.178 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:20:05.211  INFO KailleraServerImpl: User1(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:20:15.592  INFO KailleraServerImpl: User1(123/127.0.0.1) created: Game1(Cadillacs and D...): Cadillacs and Dinosaurs (World 930201)
+12-14-22 20:20:15.607  INFO KailleraGameImpl: User1(123/127.0.0.1) joined: Game1(Cadillacs and D...)
+12-14-22 20:20:17.907  INFO KailleraGameImpl: User1(123/127.0.0.1) started: Game1(Cadillacs and D...)
+12-14-22 20:20:17.915  INFO KailleraGameImpl: Game1(Cadillacs and D...): User1(123/127.0.0.1) is player number 1
+12-14-22 20:20:24.240  WARN KailleraGameImpl: User1(123/127.0.0.1) start game failed: Game1(Cadillacs and D...) status is Playing
+12-14-22 20:20:24.374  WARN KailleraGameImpl: User1(123/127.0.0.1) start game failed: Game1(Cadillacs and D...) status is Playing
+12-14-22 20:20:24.522  WARN KailleraGameImpl: User1(123/127.0.0.1) start game failed: Game1(Cadillacs and D...) status is Playing
+12-14-22 20:20:24.653  WARN KailleraGameImpl: User1(123/127.0.0.1) start game failed: Game1(Cadillacs and D...) status is Playing
+12-14-22 20:20:24.802  WARN KailleraGameImpl: User1(123/127.0.0.1) start game failed: Game1(Cadillacs and D...) status is Playing
+12-14-22 20:20:31.936  INFO KailleraGameImpl: User1(123/127.0.0.1) dropped: Game1(Cadillacs and D...)
+12-14-22 20:20:31.937  INFO KailleraGameImpl: User1(123/127.0.0.1) quit: Game1(Cadillacs and D...)
+12-14-22 20:20:31.938  INFO KailleraServerImpl: User1(123/127.0.0.1) closed: Game1(Cadillacs and D...)
+12-14-22 20:20:33.696  INFO KailleraServerImpl: User1(123/127.0.0.1) quit: Normal client exit
+12-14-22 20:20:58.145  INFO KailleraServerImpl: User2(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:51233
+12-14-22 20:20:58.145  INFO V086Controller: Private port 7002 allocated to: User2(127.0.0.1)
+12-14-22 20:20:58.171  INFO KailleraServerImpl: User2(123/127.0.0.1): login request: delay=26ms, clientAddress=127.0.0.1:51234, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Bad
+12-14-22 20:20:58.228 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:20:58.258 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:20:58.289  INFO KailleraServerImpl: User2(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:21:02.211  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-14-22 20:21:02.865  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-14-22 20:21:07.992 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: www.kaillera.com
+12-14-22 20:21:15.533  INFO KailleraServerImpl: User2(123/127.0.0.1) created: Game2(Cadillacs and D...): Cadillacs and Dinosaurs (World 930201)
+12-14-22 20:21:15.534  INFO KailleraGameImpl: User2(123/127.0.0.1) joined: Game2(Cadillacs and D...)
+12-14-22 20:21:17.199  INFO KailleraGameImpl: User2(123/127.0.0.1) started: Game2(Cadillacs and D...)
+12-14-22 20:21:17.199  INFO KailleraGameImpl: Game2(Cadillacs and D...): User2(123/127.0.0.1) is player number 1
+12-14-22 20:21:22.441  INFO KailleraGameImpl: User2(123/127.0.0.1) dropped: Game2(Cadillacs and D...)
+12-14-22 20:21:22.441  INFO KailleraGameImpl: User2(123/127.0.0.1) quit: Game2(Cadillacs and D...)
+12-14-22 20:21:22.441  INFO KailleraServerImpl: User2(123/127.0.0.1) closed: Game2(Cadillacs and D...)
+12-14-22 20:21:22.442  INFO KailleraServerImpl: User2(123/127.0.0.1) quit: Normal client exit
+12-14-22 20:21:29.163  INFO KailleraServerImpl: User3(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:59564
+12-14-22 20:21:29.163  INFO V086Controller: Private port 7003 allocated to: User3(127.0.0.1)
+12-14-22 20:21:29.193  INFO KailleraServerImpl: User3(123/127.0.0.1): login request: delay=30ms, clientAddress=127.0.0.1:59565, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-14-22 20:21:29.250 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:21:29.280 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:21:29.310  INFO KailleraServerImpl: User3(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:21:43.946  INFO KailleraServerImpl: User3(123/127.0.0.1) created: Game3(Cadillacs and D...): Cadillacs and Dinosaurs (World 930201)
+12-14-22 20:21:43.946  INFO KailleraGameImpl: User3(123/127.0.0.1) joined: Game3(Cadillacs and D...)
+12-14-22 20:21:45.182  INFO KailleraGameImpl: User3(123/127.0.0.1) started: Game3(Cadillacs and D...)
+12-14-22 20:21:45.183  INFO KailleraGameImpl: Game3(Cadillacs and D...): User3(123/127.0.0.1) is player number 1
+12-14-22 20:21:45.334  WARN KailleraGameImpl: User3(123/127.0.0.1) start game failed: Game3(Cadillacs and D...) status is Playing
+12-14-22 20:21:45.460  WARN KailleraGameImpl: User3(123/127.0.0.1) start game failed: Game3(Cadillacs and D...) status is Playing
+12-14-22 20:21:45.579  WARN KailleraGameImpl: User3(123/127.0.0.1) start game failed: Game3(Cadillacs and D...) status is Playing
+12-14-22 20:21:52.452  INFO KailleraGameImpl: User3(123/127.0.0.1) dropped: Game3(Cadillacs and D...)
+12-14-22 20:21:52.452  INFO KailleraGameImpl: User3(123/127.0.0.1) quit: Game3(Cadillacs and D...)
+12-14-22 20:21:52.452  INFO KailleraServerImpl: User3(123/127.0.0.1) closed: Game3(Cadillacs and D...)
+12-14-22 20:21:58.528  INFO KailleraServerImpl: User3(123/127.0.0.1) created: Game4(Warriors of Fat...): Warriors of Fate (US 921031)
+12-14-22 20:21:58.528  INFO KailleraGameImpl: User3(123/127.0.0.1) joined: Game4(Warriors of Fat...)
+12-14-22 20:21:59.669  INFO KailleraGameImpl: User3(123/127.0.0.1) started: Game4(Warriors of Fat...)
+12-14-22 20:21:59.669  INFO KailleraGameImpl: Game4(Warriors of Fat...): User3(123/127.0.0.1) is player number 1
+12-14-22 20:22:03.076  INFO KailleraGameImpl: User3(123/127.0.0.1) dropped: Game4(Warriors of Fat...)
+12-14-22 20:22:03.077  INFO KailleraGameImpl: User3(123/127.0.0.1) quit: Game4(Warriors of Fat...)
+12-14-22 20:22:03.077  INFO KailleraServerImpl: User3(123/127.0.0.1) closed: Game4(Warriors of Fat...)
+12-14-22 20:22:03.077  INFO KailleraServerImpl: User3(123/127.0.0.1) quit: Normal client exit
+12-14-22 20:22:08.003  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-14-22 20:22:08.617  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-14-22 20:22:11.845  INFO KailleraServerImpl: User4(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:55247
+12-14-22 20:22:11.845  INFO V086Controller: Private port 7004 allocated to: User4(127.0.0.1)
+12-14-22 20:22:11.870  INFO KailleraServerImpl: User4(123/127.0.0.1): login request: delay=25ms, clientAddress=127.0.0.1:55248, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-14-22 20:22:11.929 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:22:11.957 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:22:11.987  INFO KailleraServerImpl: User4(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:22:13.625 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-14-22 20:22:18.025  INFO KailleraServerImpl: User4(123/127.0.0.1) created: Game5(Warriors of Fat...): Warriors of Fate (World 921002)
+12-14-22 20:22:18.025  INFO KailleraGameImpl: User4(123/127.0.0.1) joined: Game5(Warriors of Fat...)
+12-14-22 20:22:19.418  INFO KailleraGameImpl: User4(123/127.0.0.1) started: Game5(Warriors of Fat...)
+12-14-22 20:22:19.419  INFO KailleraGameImpl: Game5(Warriors of Fat...): User4(123/127.0.0.1) is player number 1
+12-14-22 20:22:21.921  INFO KailleraGameImpl: User4(123/127.0.0.1) dropped: Game5(Warriors of Fat...)
+12-14-22 20:22:21.921  INFO KailleraGameImpl: User4(123/127.0.0.1) quit: Game5(Warriors of Fat...)
+12-14-22 20:22:21.921  INFO KailleraServerImpl: User4(123/127.0.0.1) closed: Game5(Warriors of Fat...)
+12-14-22 20:22:21.921  INFO KailleraServerImpl: User4(123/127.0.0.1) quit: Normal client exit
+12-14-22 20:23:13.626  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-14-22 20:23:14.171  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-14-22 20:23:14.273 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: www.kaillera.com
+12-14-22 20:24:14.275  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-14-22 20:24:14.770  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-14-22 20:24:19.785 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: The host did not accept the connection within timeout of 5000 ms
+12-14-22 20:24:25.133  INFO KailleraServerImpl: User5(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:56076
+12-14-22 20:24:25.133  INFO V086Controller: Private port 7005 allocated to: User5(127.0.0.1)
+12-14-22 20:24:25.169  INFO KailleraServerImpl: User5(123/127.0.0.1): login request: delay=36ms, clientAddress=127.0.0.1:56077, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-14-22 20:24:25.226 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:24:25.256 ERROR InfoMessageAction: Failed to contruct InformationMessage message: Invalid Information Message format: message.length == 0
+org.emulinker.kaillera.controller.messaging.MessageFormatException: Invalid Information Message format: message.length == 0
+	at org.emulinker.kaillera.controller.v086.protocol.InformationMessage.<init>(InformationMessage.java:24)
+	at org.emulinker.kaillera.controller.v086.action.InfoMessageAction.handleEvent(InfoMessageAction.java:45)
+	at org.emulinker.kaillera.controller.v086.V086Controller$V086ClientHandler.actionPerformed(V086Controller.java:589)
+	at org.emulinker.kaillera.model.impl.KailleraUserImpl.run(KailleraUserImpl.java:826)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+12-14-22 20:24:25.286  INFO KailleraServerImpl: User5(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:24:29.795  INFO KailleraServerImpl: User5(123/127.0.0.1) chat: 123
+12-14-22 20:24:33.978  INFO KailleraServerImpl: User5(123/127.0.0.1) quit: Normal client exit
+12-14-22 20:25:19.795  INFO MasterListUpdaterImpl: MasterListUpdater touching masters...
+12-14-22 20:25:20.296  INFO EmuLinkerMasterUpdateTask: Touching EmuLinker Master done
+12-14-22 20:25:20.297 ERROR KailleraMasterUpdateTask: Failed to touch Kaillera Master: www.kaillera.com
+12-14-22 20:25:30.579  INFO PicoStarter: Loading and starting components from components.xml
+12-14-22 20:25:30.738  INFO AccessManager2: Reloading permissions...
+12-14-22 20:25:30.799  WARN V086Controller: Listening on UDP ports: 27889 to 27999.  Make sure these ports are open in your firewall!
+12-14-22 20:25:30.862  INFO ByteBufferMessage: Using character set: windows-1251
+12-14-22 20:25:30.897  INFO ConnectController: Ready to accept connections on port 27888
+12-14-22 20:25:45.008  INFO KailleraServerImpl: User1(127.0.0.1) attempting new connection using protocol 0.83 from 127.0.0.1:51883
+12-14-22 20:25:45.013  INFO V086Controller: Private port 27889 allocated to: User1(127.0.0.1)
+12-14-22 20:25:48.125  INFO KailleraServerImpl: User1(123/127.0.0.1): login request: delay=3097ms, clientAddress=127.0.0.1:51884, name=123, ping=0, client=Kawaks 1.62 Netplay, connection=Good
+12-14-22 20:25:48.239  INFO KailleraServerImpl: User1(123/127.0.0.1) logged in successfully with SuperAdmin access!
+12-14-22 20:25:56.487  INFO KailleraServerImpl: User1(123/127.0.0.1) quit: Normal client exit
