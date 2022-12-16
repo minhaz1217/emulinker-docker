@@ -8,4 +8,4 @@ EXPOSE 27888-27999/udp
 # docker build -t game_server_i .
 
 # Run the docker image using
-# docker run -d --rm -P game_server_i
+# docker run -d --rm -p27888-27999/udp game_server_i
