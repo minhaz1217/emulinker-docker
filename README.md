@@ -1,8 +1,7 @@
-# Purpose
-The purpose of this project is to dockerize the emulinkersf server and play games using it with winkawaks.
+# EmuLinkerSF-Docker
+The purpose of this project is to dockerize the [EmuLinkerSF](https://github.com/God-Weapon/EmuLinkerSF) server and play games using it with winkawaks.
 
 For now the dockerized version is working as expected.
-
 
 # How to use
 
